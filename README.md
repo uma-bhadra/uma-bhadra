@@ -13,10 +13,12 @@ Contact me: ub673@my.utexas.edu<br/>
 
 [![Instagram](https://img.shields.io/badge/Instagram%20-A81C7D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umatinkers) [![Linkedin](https://img.shields.io/badge/Linkedin-%23EC5990.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umabhadra) [![YouTube](https://img.shields.io/badge/youtube-%23E50695.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ubcrochet) [![Email](https://img.shields.io/badge/email-F5788D.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ub673@my.utexas.edu)<br/>
 
+<!--
 ###  ✩ GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=uma-bhadra&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=uma-bhadra&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uma-bhadra&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 
 <!--
 ###  ✩ Top Contributed Repo
