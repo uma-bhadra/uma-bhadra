@@ -11,7 +11,12 @@ Contact me: ub673@my.utexas.edu<br/>
 ##  ✩ Socials:
 <!--[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umatinkers) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umabhadra) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ubcrochet) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ub673@my.utexas.edu) -->
 
-[![Instagram](https://img.shields.io/badge/Instagram%20-A81C7D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umatinkers) [![Linkedin](https://img.shields.io/badge/Linkedin-%23EC5990.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umabhadra) [![YouTube](https://img.shields.io/badge/youtube-%23E50695.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ubcrochet) [![Email](https://img.shields.io/badge/email-F5788D.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ub673@my.utexas.edu)<br/>
+
+
+<!--[![Instagram](https://img.shields.io/badge/Instagram%20-A81C7D?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/umatinkers) 
+-->
+
+[![Instagram](https://img.shields.io/badge/Instagram%20-A81C7D?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/knotted.by.uma/) [![Linkedin](https://img.shields.io/badge/Linkedin-%23EC5990.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/umabhadra) [![YouTube](https://img.shields.io/badge/youtube-%23E50695.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ubcrochet) [![Email](https://img.shields.io/badge/email-F5788D.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ub673@my.utexas.edu)<br/>
 
 <!--
 ###  ✩ GitHub Stats:
