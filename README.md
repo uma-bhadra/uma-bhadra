@@ -3,7 +3,7 @@ I am an Electrical and Computer Engineering (ECE) student at UT Austin [(LinkedI
 
 Learning and creating in public<br>
 
-Contact me: ub673@my.utexas.edu<br/>
+Contact me: uma.bhadra10@gmail.com <br/>
 
 ##  ✩ Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![HTML](https://img.shields.io/badge/html-%2300599C.svg?style=for-the-badge&logo=html&logoColor=white)<br/>
